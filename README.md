@@ -15,5 +15,6 @@ Note
 2. Haven't tested Apple Apps like iMessage, etc..<br />
 3. Mic not working (3.5mm audio line in).<br />
 4. Sleep works.<br />
+5. Edit the config.plist to add in your device info (Serial No, etc...).
 
 Let me know if you find anything that doesn't work or a fix for the mic.

@@ -1,6 +1,7 @@
 # MacOS Big Sur 11.4 Ryzentosh
 
-Components<br />
+Components
+
 MOBO: Gigabyte B450 Aorus M<br />
 CPU: Ryzen 5 3600<br />
 RAM: Corsair VENGEANCE® RGB PRO 16GB (2 x 8GB) DDR4 DRAM 3200MHz C16<br />
@@ -9,7 +10,8 @@ M.2 NVME: XPG SX8200 Pro<br />
 SSD: SanDisk SSD Plus 1TB<br />
 WIFI USB Dongle: EDUP EP-AC1661<br />
 
-Note<br />
+Note
+
 1. Windows 10 is pre-installed after I installed MacOS on the same drive.<br />
 2. Haven't tested Apple Apps like iMessage, etc..<br />
 3. Mic not working (3.5mm audio line in).<br />

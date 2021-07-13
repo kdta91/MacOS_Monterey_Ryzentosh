@@ -12,10 +12,11 @@ WIFI USB Dongle: EDUP EP-AC1661<br />
 
 Note
 
-1. Windows 10 is pre-installed after I installed MacOS on the same drive.<br />
-2. Haven't tested Apple Apps like iMessage, etc..<br />
-3. Mic not working (3.5mm audio line in).<br />
-4. Sleep works.<br />
-5. Edit the config.plist to add in your device info (Serial No, etc...).
+1. Windows 10 is pre-installed. Mac OS is installed after Windows 10 on the same drive.<br />
+2. Haven't tested Apple Apps like iMessage, etc.. (I don't use them)<br />
+3. Can access your other Apple computer's shared folders.<br />
+4. Audio works. Mic not working. (3.5mm jack)<br />
+5. Sleep works. <br />
+6. Edit the config.plist to add in your device info (Serial No, etc...).
 
 Let me know if you find anything that doesn't work or a fix for the mic.

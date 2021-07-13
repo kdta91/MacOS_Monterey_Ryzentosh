@@ -1,5 +1,7 @@
 # MacOS Big Sur 11.4 Ryzentosh | Opencore
 
+![image](https://drive.google.com/uc?export=view&id=1QsnB2QvjJIsNln_KFxIbBD6VRfzW8IX6)
+
 ### Components
 
 MOBO: Gigabyte B450 Aorus M<br />

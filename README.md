@@ -1,4 +1,4 @@
-# MacOS Big Sur 11.4 Ryzentosh
+# MacOS Big Sur 11.4 Ryzentosh | Opencore
 
 Components
 
@@ -18,5 +18,7 @@ Note
 4. Audio works. Mic not working. (3.5mm jack)<br />
 5. Sleep works. <br />
 6. Edit the config.plist to add in your device info (Serial No, etc...).
+
+Additional drivers for the USB Wifi dongle to work: https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
 
 Let me know if you find anything that doesn't work or a fix for the mic.

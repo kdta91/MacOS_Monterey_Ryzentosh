@@ -1,6 +1,6 @@
 # macOS Monterey 12.2.1 Ryzentosh | Opencore
 
-![image](https://drive.google.com/uc?export=view&id=17H_LawrcJrHvgNqiZYsgmETDVJDaod8L)
+![image](https://drive.google.com/uc?export=view&id=1_UW95AM52jfbO_1MnfLumIpZnYcga8jW)
 
 ### Components
 

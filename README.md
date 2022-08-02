@@ -1,4 +1,4 @@
-# macOS Monterey 12.2.1 Ryzentosh | Opencore
+# macOS Monterey 12.5 Ryzentosh | Opencore
 
 ![image](https://drive.google.com/uc?export=view&id=1QsnB2QvjJIsNln_KFxIbBD6VRfzW8IX6)
 

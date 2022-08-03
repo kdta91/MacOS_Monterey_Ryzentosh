@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Video Card</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/rtnG3C/msi-video-card-gt7101gd3hlp">MSI GeForce GT 710 1 GB Video Card</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/GzXYcf/gigabyte-radeon-rx-5600-xt-6-gb-gaming-oc-video-card-gv-r56xtgaming-oc-6gd">Gigabyte Radeon RX 5600 XT 6 GB GAMING OC Video Card</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Case</td>

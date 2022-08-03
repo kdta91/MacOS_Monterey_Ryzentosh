@@ -15,31 +15,31 @@
   <tbody>
     <tr>
       <td class="pcpp-part-list-type">CPU</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/9nm323/amd-ryzen-5-3600-36-thz-6-core-processor-100-100000031box">\*AMD Ryzen 5 3600 3.6 GHz 6-Core Processor</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/9nm323/amd-ryzen-5-3600-36-thz-6-core-processor-100-100000031box">AMD Ryzen 5 3600 3.6 GHz 6-Core Processor</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">CPU Cooler</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/kjdrxr/deepcool-gammaxx-400-v2-645-cfm-cpu-cooler-dp-mch4-gmx400v2-rd">\*Deepcool GAMMAXX 400 V2 64.5 CFM CPU Cooler</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/kjdrxr/deepcool-gammaxx-400-v2-645-cfm-cpu-cooler-dp-mch4-gmx400v2-rd">Deepcool GAMMAXX 400 V2 64.5 CFM CPU Cooler</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Motherboard</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/WcjJ7P/gigabyte-b450-aorus-m-micro-atx-am4-motherboard-b450-aorus-m">\*Gigabyte B450 AORUS M Micro ATX AM4 Motherboard</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/WcjJ7P/gigabyte-b450-aorus-m-micro-atx-am4-motherboard-b450-aorus-m">Gigabyte B450 AORUS M Micro ATX AM4 Motherboard</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Memory</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/QDhKHx/corsair-vengeance-rgb-pro-16gb-2-x-8gb-ddr4-3200-memory-cmw16gx4m2c3200c16">\*Corsair Vengeance RGB Pro 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/QDhKHx/corsair-vengeance-rgb-pro-16gb-2-x-8gb-ddr4-3200-memory-cmw16gx4m2c3200c16">Corsair Vengeance RGB Pro 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Storage</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/kVzkcf/adata-xpg-sx8200-pro-512-gb-m2-2280-solid-state-drive-asx8200pnp-512gt-c">\*ADATA XPG SX8200 Pro 512 GB M.2-2280 NVME Solid State Drive</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/kVzkcf/adata-xpg-sx8200-pro-512-gb-m2-2280-solid-state-drive-asx8200pnp-512gt-c">ADATA XPG SX8200 Pro 512 GB M.2-2280 NVME Solid State Drive</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Storage</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/ffbwrH/sandisk-ssd-plus-1-tb-25-solid-state-drive-sdssda-1t00-g26">\*SanDisk SSD PLUS 1 TB 2.5" Solid State Drive</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/ffbwrH/sandisk-ssd-plus-1-tb-25-solid-state-drive-sdssda-1t00-g26">SanDisk SSD PLUS 1 TB 2.5" Solid State Drive</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Video Card</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/rtnG3C/msi-video-card-gt7101gd3hlp">\*MSI GeForce GT 710 1 GB Video Card</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/rtnG3C/msi-video-card-gt7101gd3hlp">MSI GeForce GT 710 1 GB Video Card</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Case</td>
@@ -47,11 +47,11 @@
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Power Supply</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/R2mxFT/corsair-power-supply-cp9020103na">\*Corsair CX650M 650 W 80+ Bronze Certified Semi-modular ATX Power Supply</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/R2mxFT/corsair-power-supply-cp9020103na">Corsair CX650M 650 W 80+ Bronze Certified Semi-modular ATX Power Supply</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Operating System</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140">\*Microsoft Windows 10 Home OEM 64-bit</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140">Microsoft Windows 10 Home OEM 64-bit</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Monitor</td>

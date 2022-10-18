@@ -1,4 +1,4 @@
-# macOS Monterey 12.2.1 Ryzentosh | Opencore
+# macOS Monterey 12.6 Ryzentosh | Opencore
 
 ![image](https://drive.google.com/uc?export=view&id=1_UW95AM52jfbO_1MnfLumIpZnYcga8jW)
 
@@ -85,5 +85,3 @@
 ### Additional drivers for the USB Wifi dongle to work:<br />
 
 https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
-
-Let me know if you find anything that doesn't work or a fix for the mic.
